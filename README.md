@@ -20,29 +20,19 @@ Com o **Vínculo Vital**, você está no controle, apoiado por tecnologia de pon
 
 ---
 
-## Features Implementadas:
+## Atenção, projeto desenvolvido no simulador WOKWI
 
-* Botão de Home, Login, Sobre nós Submit, LogOut e Cadastrar;
-* Validação de usuário;
-* Responsividade;
-* Dashboard;
-* JSON-server;
-* API.
+## Link Youtube
+
+* O link para acesso do [youtube](https://youtu.be/YvvomEAVkd4).
 
 --- 
 
-## Pré-requisitos
+## Wokwi e código
 
-O site do AquaTank está no ar, e você pode visitá-lo [aqui](https://aquattank.netlify.app/). A API do site foi feita usando um plano gratuito, portanto, caso a API tenha caído no momento em que você abrir o link, entre em contato conosco para colocar-mos ela novamente no ar. Com ela fora de ar, pode haver erros nos dados dos gráficos e na validação de usuário, tanto na página de login quanto na de cadastro.
+O link para acesso (wokwi) do [código](https://wokwi.com/projects/382303579751513089). 
 
-Caso opte por rodar o site de maneira local, siga os passos abaixo:
-
-1. Certifique-se de ter o Node.js instalado em seu sistema antes de começar. Caso ainda não tenha, você pode baixá-lo [aqui](https://nodejs.org/en).
-2. Baixe a pasta do repositório.
-3. Abra a pasta no Visual Studio Code (VSCode).
-4. No VSCode, abra o terminal.
-5. Execute o comando `npm install` para instalar as dependências necessárias.
-6. Após a instalação, rode o comando `npm run dev` para colocar o site no ar.
+Caso opte por rodar o código de maneira local, o mesmo se encontra na pasta **código**
 
 ---
 
